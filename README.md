@@ -23,7 +23,7 @@
 |Проект   	|Краткое описание   	|Находится в репозитории   	|Стек   	|
 |---	|---	|---	|---	|
 | AAB-тест | Выбор целевых метрик, предварительный анализ данных, проверка корректного разбиения на группы, AB-тест | [AAB-test-in-dating-app](https://github.com/Plabos/AAB-test-in-dating-app) | `Python`, `Pandas`, `Requests`, `Pingouin`|
-| EDA и RFM | Разведывательный анализ данных и RFM-сегментация | [E-learning](https://github.com/Plabos/Data_Analytics_Projects/tree/main/E-learning) | `Python`, `Pandas`, `Matplotlib`|
+| EDA и RFM | Разведывательный анализ данных и RFM-сегментация | [E-learning](https://github.com/Plabos/E-learning) | `Python`, `Pandas`, `Matplotlib`|
 
 <!--
 **Plabos/Plabos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
