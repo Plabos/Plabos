@@ -22,6 +22,7 @@
 ### Описание проектов:
 |Проект   	|Краткое описание   	|Находится в репозитории   	|Стек   	|
 |---	|---	|---	|---	|
+| Process Automation | Автоматизация бизнес-процесса | [Business-process-automation](https://github.com/Plabos/Business-process-automation)	| `Python`, `Pandas`, `Os`, `Datetime`, `Openpyxl`|
 | AAB-тест | Выбор целевых метрик, предварительный анализ данных, проверка корректного разбиения на группы, AB-тест | [AAB-test-in-dating-app](https://github.com/Plabos/AAB-test-in-dating-app) | `Python`, `Pandas`, `Requests`, `Pingouin`|
 | EDA и RFM | Разведывательный анализ данных и RFM-сегментация | [E-learning](https://github.com/Plabos/E-learning) | `Python`, `Pandas`, `Matplotlib`|
 
